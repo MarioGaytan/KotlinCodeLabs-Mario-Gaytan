@@ -5,19 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e50b6a1c-a1f1-46b9-aba0-263f0b36d5e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/codelab1/index.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/codelab1/index.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/codelab3/AquariumFish.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/codelab3/AquariumFish.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/codelab3/Decoration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/codelab3/Decoration.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/codelab3/index.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/codelab3/index.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,25 +26,85 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MarioGaytan"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MarioGaytan/KotlineColab.git",
+    "accountId": "d88e16be-2fb3-4b25-8562-919fd064c902"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2mSBJZT7XisuPSu4zCkOtgCW15v" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Build KotlinCodelabsMarioGaytan.executor": "Run",
+    "Kotlin.AquariumFishKt.executor": "Run",
+    "Kotlin.DecorationKt.executor": "Run",
+    "Kotlin.IndexKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mario/IdeaProjectstest/KotlinCodelabsMarioGaytan/src/main/kotlin",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/mario/IdeaProjectstest/KotlinCodelabsMarioGaytan/src/main/kotlin/Main.kt",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mario\IdeaProjectstest\KotlinCodelabsMarioGaytan\src\main\kotlin" />
+      <recent name="C:\Users\mario\IdeaProjectstest\KotlinCodelabsMarioGaytan\src\main\kotlin\codelab1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.AquariumFishKt">
+    <configuration name="AquariumFishKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.codelab3.AquariumFishKt" />
+      <module name="KotlinCodelabsMarioGaytan.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecorationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.codelab3.DecorationKt" />
+      <module name="KotlinCodelabsMarioGaytan.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.codelab1.IndexKt" />
+      <module name="KotlinCodelabsMarioGaytan.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.AquariumFishKt" />
+        <item itemvalue="Kotlin.DecorationKt" />
+        <item itemvalue="Kotlin.IndexKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,6 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727060027520</updated>
       <workItem from="1727060028608" duration="216000" />
+      <workItem from="1727060263453" duration="5195000" />
     </task>
     <servers />
   </component>

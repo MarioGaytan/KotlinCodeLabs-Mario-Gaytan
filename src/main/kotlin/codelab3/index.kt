@@ -39,14 +39,36 @@ fun buildAquarium() {
 }
 
 fun makeFish() {
-    val shark = Shark()
-    val pleco = Plecostomus()
-    println("Shark: ${shark.color}")
-    shark.eat()
-    println("Plecostomus: ${pleco.color}")
-    pleco.eat()
-}
 
+    val fishList = listOf(Shark(), Plecostomus(), Plecostomus(GoldColor))
+
+
+    val twoLists = fishList.partition { isFreshWater(it) }
+    println("freshwater: ${twoLists.first.map { it.color }}")
+    println("saltwater: ${twoLists.second.map { it.color }}")
+
+
+    val equipment = "fish net" to "catching fish"
+    println("${equipment.first} is used for ${equipment.second}")
+
+
+    val numbers = Triple(6, 9, 42)
+    println(numbers.toString())
+    println(numbers.toList())
+
+
+    val equipment2 = ("fish net" to "catching fish") to "equipment"
+    println("${equipment2.first} is ${equipment2.second}")
+    println("${equipment2.first.second}")
+
+
+    val (tool, use) = equipment
+    println("$tool is used for $use")
+
+
+    val (n1, n2, n3) = numbers
+    println("$n1 $n2 $n3")
+}
 
 fun main() {
     buildAquarium()
